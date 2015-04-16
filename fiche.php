@@ -82,6 +82,7 @@ dol_fiche_head($head, 'mimodulo', $titre, 0, $picto);
 
 // Put here content of your page
 print "<h1>Bienvenido a mi módulo</h1>";
+print "<p>Esto es un módulo de prueba</p>";
 
 // End of page
 llxFooter();
